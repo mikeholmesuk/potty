@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.neveroddoreven
+---
+testFramework: junit
+sourceLanguage: java
