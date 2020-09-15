@@ -1,3 +1,7 @@
 micronaut:
   application:
     name: potty
+    author: Mike Holmes
+  data:
+    local:
+      file_name: plantinfo-clean.csv
